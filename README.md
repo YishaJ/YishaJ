@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @YishaJ
+- 👋 Hi, I’m @Yisha
 - 👀 I’m interested in finding patterns in the chaos!
 - 🌱 I’m currently learning how to make data talk!
 - 💞️ I’m looking to collaborate on projects from climate analytics to AI-driven insights.
